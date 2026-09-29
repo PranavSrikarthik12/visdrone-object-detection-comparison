@@ -159,6 +159,7 @@ venv.bak/
 
 #Dataset
 VisDrone2019-DET-train/
+VisDrone2019-DET-val/
 
 # Spyder project settings
 .spyderproject
