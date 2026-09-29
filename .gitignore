@@ -157,6 +157,9 @@ ENV/
 env.bak/
 venv.bak/
 
+*.zip
+
+notebooks/
 #Dataset
 VisDrone2019-DET-train/
 VisDrone2019-DET-val/
